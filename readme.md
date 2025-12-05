@@ -1,6 +1,6 @@
 # Sistema de Gestión de Denuncias Ciudadanas (SGDC) - Documentación Técnica
 
-## 0. Portada
+## 0. Portada.
 
 <p align="center">
   <img src="logoUNI.png" alt="Logo UNI" width="200"/>
